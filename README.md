@@ -10,5 +10,6 @@ Student teams will build autonomous robots that will race to create a stand coun
 
 For the Standard Competition and Advanced Competition they will identify single, double, and empty plants. The Standard competition is required to remove the yellow plant when a double is detected. The Advanced Competition must remove the yellow plant when a double is detected and replant a seed when an empty plant  is detected. At the end of the run for both competitions the robot must display a stand count, representing how many plants they identified as single, double, or empty.
 "
+
 https://asabe.org/robotics#2025%20Competition
 
